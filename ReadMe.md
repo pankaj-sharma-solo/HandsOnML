@@ -7,3 +7,6 @@
 6. Fine-tune your models and combine them into a great solution.
 7. Present your solution.
 8. Launch, monitor, and maintain your system.
+
+### Precision: Accuracy of positive predictions
+### Recall: True positive rate; ratio of correctly detected positive instances by classifier.
